@@ -3,11 +3,12 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/UTEC.jpg" width="200">
 
-## **Integrantes**
+### **Integrantes**
 * Fabian Martin Alvarado Vargas
 * Rodrigo Carlos Acosta
 * Angello Miguel Zuloaga Loo
 *Jean Pier Angeles Barazorda
+
 ## **Tabla de contenido**
 * [Introducción](#introducción)
 * [Técnicas a usar en el proyecto](#técnicas-a-usar)
@@ -135,7 +136,8 @@ Por último, encontramos que las búsquedas por rango, son más eficientes dentr
 En el video.https://youtu.be/odKF_Y5CURI (LINK)
 
 #participacion
-| lista activididad | responsable|nota| 
+| lista activididad | responsable|nota|
+| :-------------------: | --- | --- | --- | --- | --- | 
 | hacer el bucket de los hashing y enlazarlo con los menus y los cvs | rodrigo carlos| |
 | crear los menu pokemon y futbol y el record del hashing| jean pier|  | 
 | funcion Secuencial |Fabian | |
